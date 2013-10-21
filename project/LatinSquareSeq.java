@@ -8,12 +8,8 @@ import edu.rit.util.Random;
 
 /**
  * Filename: LatinSquareSeq.java
+ * @author Sharath Navalpakkam Krishnan
  * @author Rahul Nuggehalli Gopinathan - rnn4511
- */
-
-/**
- * @author Rahul Nuggehalli Gopinathan - rnn4511
- *
  */
 
 public class LatinSquareSeq {
